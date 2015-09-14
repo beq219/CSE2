@@ -27,4 +27,4 @@ public class Timer {    //this is my main class
         
     } //end of main method
 
-} //end of class
+} //end of class.

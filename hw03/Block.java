@@ -24,4 +24,4 @@ public class Block {    //this is my main class
         System.out.println("The surface area of the block is " + surfaceArea); //this displays the surface area of the block
         
     }//end of main method
-}//end of class
+}//end of class.
