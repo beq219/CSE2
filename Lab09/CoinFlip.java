@@ -1,5 +1,6 @@
 //Ben Quan
-//
+//Lab 09
+//This lab simulates coin flips. It will return either heads or tails for as many times as the user wants.
 import java.util.Scanner;//I am importing my scanner class
 
 public class CoinFlip{//This is my main class
