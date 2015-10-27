@@ -1,3 +1,7 @@
+//Ben Quan
+//Homework 08
+//Due 27 October 2015
+//This program will prompt the user to choose circle, rectangle, or trapezoid. Then it will ask for the respective values. Then it will print out the area of each shape.
 import java.util.Scanner; //I am importing my scanner class
 
 public class areas{ //This is my main class
